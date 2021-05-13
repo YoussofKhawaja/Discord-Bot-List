@@ -1,7 +1,7 @@
 # Discord-Bot-List
 Discord Bot List
 
-# botconfig :
+# botconfig 
 ```
 {
   "token": "Your Token",
