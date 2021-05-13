@@ -1,0 +1,27 @@
+{
+  "name": "yk-bot-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yk303/yk-bot-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yk303/yk-bot-list/issues"
+  },
+  "homepage": "https://github.com/yk303/yk-bot-list#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.29.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.7",
+    "noblox.js": "^4.7.2",
+    "schema": "^0.2.1"
+  }
+}
