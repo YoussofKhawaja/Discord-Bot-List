@@ -19,4 +19,3 @@ https://nodejs.org/en/download/
 
 3- node index.js
 
-My Discord id : YK303#2828
